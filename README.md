@@ -6,13 +6,12 @@ Tutorial Application in that:
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
-
+- Plzz open the zip and  install  npm  and run the project with ng serve .
+- See the code  in vs code  by  open the src file . 
 ![angular-14-crud-example](angular-14-crud-example.png)
 
-Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --port 4200` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-For instruction, please visit:
-> [Angular 14 example: CRUD Application with Rest API](https://www.bezkoder.com/angular-14-crud-example/)
 
 More Practice:
 > [Angular 14 Pagination example | ngx-pagination](https://www.bezkoder.com/angular-14-pagination-ngx/)
